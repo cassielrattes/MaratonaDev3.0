@@ -1,5 +1,5 @@
 # MaratonaDev 3.0
 
-<div align="center">
+<p align="center">
 ![Web App Screenshot](readme.png)
-</div>
+</p>
